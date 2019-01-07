@@ -422,7 +422,7 @@ def rectangles_from_circles(circles):
         rectangle = rg.Rectangle(rg.Point(topLeftX, topLeftY), rg.Point(bottomRightX, bottomRightY))
         list = list + [rectangle]
     return list
- 
+
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
